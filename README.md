@@ -120,3 +120,9 @@ _* Inclue inside payments_
 - [MariaDB](https://mariadb.org/)
 - [MySQL](https://www.mysql.com/fr/)
 - [PostgreSQL](https://www.postgresql.org/)
+
+# Contributors
+
+| ![](https://avatars.githubusercontent.com/u/73474137?s=96&v=4) |
+| - |
+| ***@titi_2115*** ✨ |
