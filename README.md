@@ -38,6 +38,8 @@ Here you will be able to find resources for your web project as lists. ✨
 
 _* Inclue inside payments_
 
+#### [Emojis 😊](https://getemoji.com/)
+
 ## Tools 🔧
 
 ### Colors
