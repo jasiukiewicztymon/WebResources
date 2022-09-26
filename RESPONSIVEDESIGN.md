@@ -1,8 +1,8 @@
 # Responsive design
 
-While analizing the biggest company's website the menu in the responsive design is a element with an absolute position that takes the hole possible space or a limited space and doing more dark the background. You have some example just below.
+While analyzing the biggest company's website the menu in the responsive design is an element with an absolute position that takes up the whole possible space or limited space and darker the background. You have some examples just below.
 
-Doing responsive design is hard so if you want to do it first write all the website content and finally style it to don't have to add content. During two years of developement, I learn it's better to write first content before style it.
+Doing responsive design is hard so if you want to do it first write all the website content and finally style it to don't have to add content. During two years of development, I learn it's better to write first content before styling it.
 
 | Normal design | Responsive design menu | Responsive design content |
 | - | - | - |
@@ -14,6 +14,6 @@ Doing responsive design is hard so if you want to do it first write all the webs
 | ![image](https://user-images.githubusercontent.com/73474137/192294623-8e51f706-f924-4918-a1f3-bbba81fd0435.png) | ![image](https://user-images.githubusercontent.com/73474137/192294693-7a98f114-f974-45e1-ae5f-897ae30facfc.png) | ![image](https://user-images.githubusercontent.com/73474137/192294755-5ce9fe20-003a-4f0b-8d41-5b9314d59221.png) |
 | ![image](https://user-images.githubusercontent.com/73474137/192295015-eff3050e-c065-4df7-9ed1-213eccd5fd6b.png) | ![image](https://user-images.githubusercontent.com/73474137/192295098-856f7d08-dd65-41c8-b0fd-34d34b2b2856.png) | ![image](https://user-images.githubusercontent.com/73474137/192295168-304b4e13-8496-44be-b5f9-8ed5e3a675be.png) |
 
-## Some personal analises
+## Some personal analyses
 
-We can see that most of website contract the content of the page, let less margin and padding and favour the column display. We can see as well, that less important inforamtions like for example the list of your online friends on Facebook is hidden.
+We can see that most website contract the content of the page, let less margin and padding, and favor the column display. We can see as well, that less important information like for example the list of your online friends on Facebook is hidden.
