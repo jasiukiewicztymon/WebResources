@@ -2,7 +2,7 @@
 
 Here is a list of tools and technologies that you can use in web development.
 
-## Grafic 🖼
+## Graphic 🖼
 
 ### Icons
 
@@ -36,7 +36,7 @@ Here is a list of tools and technologies that you can use in web development.
 - [Adobe Fonts*](https://fonts.adobe.com/fonts)
 - [My Fonts*](https://www.myfonts.com/)
 
-_* Inclue inside payments_
+_* Include inside payments_
 
 #### [Emojis 😊](https://getemoji.com/)
 
