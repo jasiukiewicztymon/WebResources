@@ -16,4 +16,4 @@ Doing responsive design is hard so if you want to do it first write all the webs
 
 ## Some personal analyses
 
-We can see that most website contract the content of the page, let less margin and padding, and favor the column display. We can see as well, that less important information like for example the list of your online friends on Facebook is hidden.
+We can see that most website contract the content of the page, let less margin and padding, and favor the column display. We can see as well, that less important information for example the list of your online friends on Facebook is hidden.
