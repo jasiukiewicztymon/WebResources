@@ -38,7 +38,8 @@ Here is a list of tools and technologies that you can use in web development.
 
 _* Include inside payments_
 
-#### [Emojis 😊](https://getemoji.com/)
+#### [😊 Emojis](https://getemoji.com/)
+#### [🖼 Remove the background](https://www.remove.bg/)
 
 ## Tools 🔧
 
