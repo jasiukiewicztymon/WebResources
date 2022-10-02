@@ -24,3 +24,7 @@ Wireframes are simplified interfaces, page by page to organize and understand th
 ### 3. Design
 
 The final step is when you have to add all the animations, colors, and transitions.
+
+## Sources & more recources
+
+- [UI tips (FR)](https://graphiste.com/blog/methodes-simples-ameliorer-ux-ui-design)
