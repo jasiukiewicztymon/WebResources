@@ -5,7 +5,7 @@ Here you will be able to find resources for your web project as lists. ✨
 - ### [Tools & technologies](https://github.com/jasiukiewicztymon/WebResources/blob/main/TOOLS%26TECHNOLOGIES.md)
 - ### [Responsive design](https://github.com/jasiukiewicztymon/WebResources/blob/main/RESPONSIVEDESIGN.md)
 - ### [Dark VS Light theme](https://github.com/jasiukiewicztymon/WebResources/blob/main/DARKVSLIGHTTHEME.md)
-- ### [UI design](https://github.com/jasiukiewicztymon/WebResources/blob/main/UIDESIGN.md) *(in progress)*
+- ### [UI design](https://github.com/jasiukiewicztymon/WebResources/blob/main/UIDESIGN.md)
 
 # Contributors
 
